@@ -1,0 +1,74 @@
+"ID";"solusi_dan_pertanyaan";"bila_benar";"bila_salah";"mulai";"selesai";"penyebab";"solusi"
+"0";"Maaf, belum ada solusi untuk masalah anda";"0";"0";"N";"Y";NULL;NULL
+"1";"Apakah suara menjadi sangat keras/cempreng/seperti kaleng?";"2";"6";"Y";"N";NULL;NULL
+"2";"Apakah tenaga dibawah 7000rpm setelan pabrik tetap normal namun ketika masuk 7000rpm motor tidak bertenaga?";"3";"10";"Y";"N";NULL;NULL
+"4";"Apakah saat digeber di rpm tinggi dan langsung tutup gas superkips langsung macet?";"5";"11";"Y";"N";NULL;NULL
+"5";"Superkips Macet";"0";"0";"N";"Y";"1. Terlalu jarang memainkan superkips<br>2. Oli samping yang tidak cocok";"Bersihkan blok superkips (berkarat karena adanya sisa dari pembakaran yang tidak maksimal)"
+"6";"Suara mesin berisik?";"7";"8";"Y";"N";NULL;NULL
+"7";"Cepat rusak seher dan ring seher";"0";"0";"N";"Y";"Salah atu penyebabnya yaitu karena mengganti knalpot standar ke knalpot racing";"1.	Gunakan kanlpot yang sesuai<br>
+2.	Pastikan setingan karburator atau buangan pada mesin sesuai dengan type knalpot yang dipakai<br>
+3.	Pastikan setingan pompa oli samping juga telah sesuai
+"
+"3";"Apabila superkips dalam posisi katup terbuka maka tenaga bawah akan hilang dan berat, namun ketika mencapai Rpm 7000 spt normal kembali?";"4";"10";"Y";"N";NULL;NULL
+"8";"Mesin berisik tidak wajar?";"9";"10";"Y";"N";NULL;NULL
+"9";"Stang seher";"0";"0";"N";"Y";"Stang seher rusak";"Ganti yang baru"
+"10";"Suara mesin berisik dan tenaga kurang?";"11";"13";"Y";"N";NULL;NULL
+"11";"Suara knalpot jadi cempreng";"12";"1";"Y";"N";NULL;NULL
+"12";"Boring";"0";"0";"N";"Y";"1. Boring aus, biasanya usia pemakaian<br>2. stelan oli samping yang tidak sesuai atau oli samping tidak berjalan lancer";"1.	Ganti boring<br>
+2.	Stell oli samping yang sesuai, jangan terlalu boros atau irit<br>
+3.	Slang oli samping mampet dan bersihkan<br>
+4.	Service pompa oli
+"
+"13";"Apakah Tarikan lemah?";"14";"15";"Y";"N";NULL;NULL
+"14";"Karburator";"0";"0";"N";"Y";"Campuran bahan bakar dan udara yang tidak sempurna";"Mengganti mail jet dengan ukuran yang lebih besar. Itu terjadi karena asupan bahan bakar tidak sesuai dengan standar atau istilahnya kering"
+"15";"Apakah Tenaga ngempos?";"16";"17";"Y";"N";NULL;NULL
+"16";"Karburator";"0";"0";"N";"Y";"1.	Terjadi kerusakan pada busi, karbu yang kotor, CDI, spull dan boring<br>
+2.	Stelan kopling<br>
+3.	Plat kopling yang sudah tipis
+";"1.	Cek busi, bersihkan karburator, periksa CDI dan spull dan boring<br>
+2.	Stelan kopling yang sesuai<br>
+3.	Ganti Plat kopling
+"
+"17";"Mesin tersendat saat stasioner?";"18";"19";"Y";"N";NULL;NULL
+"18";"Karburator";"0";"0";"N";"Y";"Karena campuran bahan bakar yang ada di venture (lubang karbu) dengan udara tidak cukup banyak dan seimbang, hasilnya pembakaran tidak sempurna";"1.	Putar stelan skrup udara searah jarum jam atau arah menutup, hal itu dimaksudkan untuk memperbanyak campuran udara dengan bahan bakar<br>
+2.	Pindah posisi pilot jet ke tingkat yang lebih besar<br>
+3.	Ganti jarum skep atau throttle dengan jarum yang berdiameter lebih kecil, hal itu dimaksudkan agar campuran udara dan bahan bakar di venture yang akan disemburkan keruang bakar mesin lebih besar
+"
+"19";"Brebet pada tarikan bawah";"20";"21";"Y";"N";NULL;NULL
+"20";"Karburator";"0";"0";"N";"Y";"1.	Karburator yang kotor<br>
+2.	Busi yang sudah tidak stabil<br>
+";"1.	Service karburator<br>
+2.	Cek busi, bila perlu ganti sama yang baru
+"
+"21";"Bensin banjir /Busi basah?";"22";"23";"Y";"N";NULL;NULL
+"22";"Karburator";"0";"0";"N";"Y";"Jarum pelampung pada karbu rusak atau terganjal benda asing";"Bersihkan atau ganti sama yang baru"
+"23";"Bukaan gas yang suka nyangkut, gejala ini bisa ddeteksi dengan terasa beratnya grip gas atau putaran mesin tidak langsung turun saat gas di tarik dalam?";"24";"25";"Y";"N";NULL;NULL
+"24";"Karburator";"0";"0";"N";"Y";"1.	karena tabung skep tidak memiliki lapisan krom sehingga pergerakan naik turunya tabung kurang lancar.<br>
+2.	Karbu yang kotor
+";"1.	Mengganti tabung skep karburator standar dengan karburator PE 28 atau PWL 28<br>
+2.	Bersihkan karbburator dengan menjaga kebersihan saringan air filter
+"
+"25";"Apakah mesin cepat panas terutama dalam keadaan jalanan macet?";"26";"0";"Y";"N";NULL;NULL
+"26";"Suara mesin kasar atau ngelitik?";"27";"0";"Y";"N";NULL;NULL
+"27";"Tarikan berat?";"28";"29";"Y";"N";NULL;NULL
+"28";"Mesin over heat";"0";"0";"N";"Y";"1.	Kabel oli samping terhambat<br>
+2.	Stelan oli samping yang tidak sesuai<br>
+3.	Air radiator yang sudah berkurang<br>
+4.	Suara mesin kasar karena kepala silinder bengkok akibat panas yang berlebihan<br>
+5.	Oli tercampur air dan system pelumasan terganggu yang mengakibatkan piston macet<br>
+6.	Kebocoran slang radiator
+";"1.	Cek kabel oli samping dan pompa oli samping<br>
+2.	Kalau kabel terhambat bersihkan, dan kalau pompa oli samping rusak ganti sama yang baru<br>
+3.	Cek stelan oli samping (harus sesuai), jangan terlalu boros ataupun irit<br>
+4.	Buka tutup radiator, periksa air radiator, apabila berkurang segera tambahin<br>
+5.	Perhatikan 3 komponennya yaitu klep tekan, per dan klep vakum masih bagus atau tidak, jika per berkarat bersihkan.<br>
+6.	Cek klep vakum pada radiator, apabila rusak ganti yang baru<br>
+7.	Cek slang radiator, kemungkinan ada kebocoran cirinya pada bagian tertentu pada slang mulai menggelembung. Kalau perlu ganti salang radiator<br>"
+"29";"Terasa ada gangguan pembakaran pada waktu menambah kecepatan tinggi?";"30";"1";"Y";"N";NULL;NULL
+"30";"Mesin over heat";"0";"0";"N";"Y";"1.	Oli samping tidak sesuai<br>
+2.	Saringan udara tidak ada atau kotor<br>
+3.	Endapan atau sisa pembakaran  endapan busi, banyak menempel pada permukaan insulator dan elektroda busi dengan warna yang bermacam2<br>
+";"1.	Pake oli samping yang sesuai<br>
+2.	Bersihkan saringan udara atau selalu memakai saringan udara<br>
+3.	Gunakan oli mesinyang sesuai<br>
+4.	Ganti busi<br>"
